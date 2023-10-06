@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: C:\Users\yuta\source\tmp\github\codeql-demo\dotnet\Dotnet6WebApp
+baselineLinesOfCode: 877
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: csharp
+creationMetadata:
+  cliVersion: 2.14.6
+  creationTime: 2023-10-06T08:04:11.122687800Z
+finalised: true
