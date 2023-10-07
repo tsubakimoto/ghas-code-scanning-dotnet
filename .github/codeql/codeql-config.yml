@@ -1,0 +1,6 @@
+name: "My CodeQL confing"
+
+paths:
+  - Pages
+paths-ignore:
+  - Properties
