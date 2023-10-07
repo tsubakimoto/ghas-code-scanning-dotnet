@@ -1,6 +1,4 @@
-name: "My CodeQL confing"
+name: "Security and Quality"
 
-paths:
-  - Pages
-paths-ignore:
-  - Properties
+queries:
+  - uses: security-and-quality
